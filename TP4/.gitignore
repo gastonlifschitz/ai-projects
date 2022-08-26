@@ -1,0 +1,15 @@
+/target/
+.project
+.settings/
+.classpath
+.idea/
+TP3.iml
+ex.py
+target/
+../.idea/
+../TP2/.pydevproject
+.pydevproject
+__pycache__/
+viskohonen.txt
+vishopfield.txt
+navgd.txt
